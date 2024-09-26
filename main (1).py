@@ -1,7 +1,6 @@
 #Project Name: Donated Books Inventory and Sales Management system
 #Made by: Arsheya Mathur
-#Session: 2022-23
-#Class: 12A
+#High School Project
 
 import mysql.connector
 from prettytable import PrettyTable
